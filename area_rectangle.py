@@ -6,4 +6,4 @@ breath = int(breath)
 
 area = length*breath
 
-print(f"Area of the rectangle with length {length} and breath as {breath}  is {area} ")
+print(f"Area of the rectangle with length {length} and breath as {breath}  is {area} ")             
